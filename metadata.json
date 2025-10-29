@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Domain Checker",
+  "description": "A responsive web application that uses AI to check for domain name availability and suggests creative alternatives if the desired domain is taken.",
+  "requestFramePermissions": []
+}
